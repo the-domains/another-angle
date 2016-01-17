@@ -1,7 +1,7 @@
 name: Another Angle
 favicon: null
-layout_spectrum: 0.7421046714298427
-typography_spectrum: 0.5325359159614891
+layout_spectrum: 0.2787330134306103
+typography_spectrum: 0.33289090008474886
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.15936291217803955
-  lightness: 0.1848140680231154
-  saturation: 0.8801266388036311
-  rhythmicContrast: 0.3325044543016702
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.898888882715255
+  lightness: 0.3271393817849457
+  saturation: 0.9552023054566234
+  rhythmicContrast: 0.46438121516257524
 purpose: []
